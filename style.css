@@ -50,11 +50,8 @@ html
 	top: 0;
 	right: 0;
 	bottom: 0;
-	background-image: url("http://www.imgbase.info/images/safe-wallpapers/photography/cityscape/3287-photography_hancock_center_wallpaper.jpg");
 	background-size: 50%;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: center;
+	background: url("http://www.imgbase.info/images/safe-wallpapers/photography/cityscape/3287-photography_hancock_center_wallpaper.jpg") no-repeat fixed center;
 	background-size: cover;
 }
 
